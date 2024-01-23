@@ -1,6 +1,6 @@
 # dndRules
 Rules Stuff for DnD, mostly clarifications, QaA
-- [Table Rules](Table-Rules)
+- [Table-Rules](https://github.com/itteerde/dndRules/wiki/Table-Rules)
 
 # Wall of Force
 - As the general rules for Spellcasting require a `line of effect` for anything that has to pick a target (though not being clear if that requires the word `target` in the rule, except for the origin point for AoE, where it is always targeting) most Spells do not work *trough* the wall. This means no AoE that does not have a special clause (think there is none) can be casted *through* the wall.
