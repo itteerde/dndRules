@@ -14,7 +14,7 @@ Rules Stuff for DnD, mostly clarifications, QaA
 - As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) only require a path, that not requiring any minimum dimensions, AoE can be put on the other side of the cage variant without additional limitations.
 
 ## Otiluke's Resilient Sphere
-- **Ruling** The sphere is opaque and blocks sound.
+- **Ruling:** The sphere is opaque and blocks sound.
 
 ## Wall of Force
 - As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) require a `clear path to it, so it can’t be behind total cover` for anything that has to pick a target (though not being clear if that requires the word `target` in the rule, except for the origin point for AoE, where it is always targeting) most Spells do not work *through* the wall. This means no AoE that does not have a special clause (think there is none) can be casted *through* the wall.
