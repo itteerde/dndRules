@@ -13,8 +13,11 @@ Rules Stuff for DnD, mostly clarifications, QaA
 - **Ruling:** The cage variant provides 3/4 cover from stuff that is not obviously to wide to go through.
 - As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) only require a path, that not requiring any minimum dimensions, AoE can be put on the other side of the cage variant without additional limitations.
 
+## Otiluke's Resilient Sphere
+- **Ruling** The sphere is opaque and blocks sound.
+
 ## Wall of Force
-- As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) require a `clear path to it, so it can’t be behind total cover` for anything that has to pick a target (though not being clear if that requires the word `target` in the rule, except for the origin point for AoE, where it is always targeting) most Spells do not work *trough* the wall. This means no AoE that does not have a special clause (think there is none) can be casted *through* the wall.
+- As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) require a `clear path to it, so it can’t be behind total cover` for anything that has to pick a target (though not being clear if that requires the word `target` in the rule, except for the origin point for AoE, where it is always targeting) most Spells do not work *through* the wall. This means no AoE that does not have a special clause (think there is none) can be casted *through* the wall.
 - [Dimension Door](https://www.dndbeyond.com/spells/dimension-door) is unaffected, just works.
 - [Misty Step](https://www.dndbeyond.com/spells/misty-step) does work, there is clear Sage Advice answering just this question. ( [sage advice](https://www.sageadvice.eu/targeting-spellsclear-path-can-i-target-across-wall-of-force/) )
 - [Scatter](https://www.dndbeyond.com/spells/scatter) cannot pick any of the `targets` to be on the other side, but the destinations can be *through* the wall.
