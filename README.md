@@ -9,6 +9,10 @@ Rules Stuff for DnD, mostly clarifications, QaA
 
 # Spells
 
+## Counterspell
+- needs that `you see a creature within 60 feet of you casting a spell`. [Sage Advice](https://www.sageadvice.eu/do-you-need-line-of-sight-to-cast-counterspell-on-a-creature/) It is in the spell's casting time/ Reaction condition asterix.
+- cannot be used if you casted a Spell using a Bonus Action [Sage Advice](https://www.sageadvice.eu/bonus-action-spell-reaction-spell/) [PHB](https://www.dndbeyond.com/sources/phb/spellcasting#BonusAction).
+
 ## Forcecage
 - **Ruling:** The cage variant provides 3/4 cover from stuff that is not obviously to wide to go through.
 - As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) only require a path, that not requiring any minimum dimensions, AoE can be put on the other side of the cage variant without additional limitations.
