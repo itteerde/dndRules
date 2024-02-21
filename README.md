@@ -26,3 +26,9 @@ Rules Stuff for DnD, mostly clarifications, QaA
 - [Misty Step](https://www.dndbeyond.com/spells/misty-step) does work, there is clear Sage Advice answering just this question. ( [sage advice](https://www.sageadvice.eu/targeting-spellsclear-path-can-i-target-across-wall-of-force/) )
 - [Scatter](https://www.dndbeyond.com/spells/scatter) cannot pick any of the `targets` to be on the other side, but the destinations can be *through* the wall.
 - [Vortex Warp](https://www.dndbeyond.com/spells/vortex-warp) cannot pick a `target` on the opposite side of the wall from the Caster, but allow to pick any side of the wall as the destination.
+
+
+# X-Cases
+
+## Death Ward and Necrotic Husk
+- **Question:** If you have a [Death Ward](https://www.dndbeyond.com/spells/death-ward) on you and have a Reaction, being an Undead Warlock of level 10+, can you choose to use your [Necrotic Husk](https://www.dndbeyond.com/classes/warlock#TheUndead) instead of the  [Death Ward](https://www.dndbeyond.com/spells/death-ward) going off if you would be reduced to 0 hit points by damage?
