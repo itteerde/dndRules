@@ -16,7 +16,7 @@ Rules Stuff for DnD, mostly clarifications, QaA
   - Does the description say it's magical?
   If your answer to any of those questions is yes, the feature is magical. [...] Cold Breath [a dragon's breath weapon] is not considered a magical game effect.
   ```
-  **Note:** This is either not covering or unsatisfactory in combination with some of the newer stats blocks that closely replicate spells (like new Wizards) renamed and without referring to the spell. Note that the sage advice is older than those new type stat blocks.
+  **Note:** This is either not covering or unsatisfactory in combination with some of the newer stats blocks that closely replicate spells (like new Wizards, e.g. [Evoker Wizard](https://www.dndbeyond.com/sources/motm/bestiary-vz#EvokerWizard), note that both with CoP and Magical Resistance it only matters for Saves, so the Spell Attack criterion from the Sage Advice never apllies) renamed and without referring to the spell. Note that the sage advice is older than those new type stat blocks.
 - [Circle of Power](https://www.dndbeyond.com/spells/circle-of-power) refers to `spells and other magical effects`.
 
 # Spellcasting
