@@ -28,6 +28,7 @@ Rules Stuff for DnD, mostly clarifications, QaA
 ## Counterspell
 - needs that `you see a creature within 60 feet of you casting a spell`. [Sage Advice](https://www.sageadvice.eu/do-you-need-line-of-sight-to-cast-counterspell-on-a-creature/) It is in the spell's casting time/ Reaction condition asterix.
 - cannot be used if you casted a Spell using a Bonus Action [Sage Advice](https://www.sageadvice.eu/bonus-action-spell-reaction-spell/) [PHB](https://www.dndbeyond.com/sources/phb/spellcasting#BonusAction).
+- **Note:*** The new type of Feature reflavoring a Spell, maybe retouching some traits, like subclassifying them for the new Wizards, and them technically no longer being Spells, creates a problem. I think if it has spellcasting flavor it should still be valid for using Counterspell against it.
 
 ## Forcecage
 - **Ruling:** The cage variant provides 3/4 cover from stuff that is not obviously to wide to go through.
