@@ -3,6 +3,21 @@ Rules Stuff for DnD, mostly clarifications, QaA
 - [Table-Rules](https://github.com/itteerde/dndRules/wiki/Table-Rules)
 
 
+# Definitions
+
+## Magical Effects/ magical
+- [Sage Advice](https://media.wizards.com/2017/dnd/downloads/SA-Compendium.pdf)
+  ```txt
+  Determining whether a game feature is magical is straightforward. Ask yourself these questions about the feature:
+  - Is it a magic item?
+  - Is it a spell? Or does it let you create the effects of a spell that's mentioned in its description?
+  - Is it a spell attack?
+  - Is it fueled by the use of spell slots?
+  - Does the description say it's magical?
+  If your answer to any of those questions is yes, the feature is magical. [...] Cold Breath [a dragon's breath weapon] is not considered a magical game effect.
+  ```
+- [Circle of Power](https://www.dndbeyond.com/spells/circle-of-power) refers to `spells and other magical effects`.
+
 # Spellcasting
 - There is no general rule against maintaining Concentration across different Planes. [Sage Advice](https://www.sageadvice.eu/can-you-concentrate-on-a-spell-whose-active-effects-are-on-an-other-plane-of-existence/)
 
