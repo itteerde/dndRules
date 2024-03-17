@@ -49,4 +49,4 @@ Rules Stuff for DnD, mostly clarifications, QaA
 
 ## Death Ward and Necrotic Husk
 - **Question:** If you have a [Death Ward](https://www.dndbeyond.com/spells/death-ward) on you and have a Reaction, being an Undead Warlock of level 10+, can you choose to use your [Necrotic Husk](https://www.dndbeyond.com/classes/warlock#TheUndead) instead of the  [Death Ward](https://www.dndbeyond.com/spells/death-ward) going off if you would be reduced to 0 hit points by damage?
-  **Ruling:** The [Death Ward](https://www.dndbeyond.com/spells/death-ward) triggers automatically before there is a character Reaction/ player choice.
+- **Ruling:** The [Death Ward](https://www.dndbeyond.com/spells/death-ward) triggers automatically before there is a character Reaction/ player choice.
