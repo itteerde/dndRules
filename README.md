@@ -37,6 +37,9 @@ Rules Stuff for DnD, mostly clarifications, QaA
 ## Otiluke's Resilient Sphere
 - **Ruling:** The sphere is opaque and blocks sound.
 
+## Sunbeam
+- **Ruling:** The `Magnifying Glass` is needed, as the `Magnifying Glass` has a gold value.
+
 ## Wall of Force
 - As the general rules for [Spellcasting](https://www.dndbeyond.com/sources/phb/spellcasting#Targets) require a `clear path to it, so it can’t be behind total cover` for anything that has to pick a target (though not being clear if that requires the word `target` in the rule, except for the origin point for AoE, where it is always targeting) most Spells do not work *through* the wall. This means no AoE that does not have a special clause (think there is none) can be casted *through* the wall.
 - [Dimension Door](https://www.dndbeyond.com/spells/dimension-door) is unaffected, just works.
