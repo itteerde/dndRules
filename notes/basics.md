@@ -1,6 +1,6 @@
 # Assumptions
 1. **Adventuring Day**: The `Adventuring Day` is in play. The majority of sequences between `Long Rest` has either 0 or 4+ resource consuming encounters, regularly having 4+ combat encounters before `Long Rest`.\
-    \
+    
     Without a regular resource draining `Adventuring Day` once full `Spellcasters` get strong and efficient `Concentration` `Spells` they dominate the game in an unhealthy way. If the number of times they can do that is lower than the number of encounters per day this problem disappears, being replaced on some degree of different responsibilities, with some `Classes`, where one combat per `Long Rest` leads to just unloading everything all the time -- usually the same way, like having "a rotation" in some computer games.
 
 1. **Cooperation Consensus/ Social Contract**: Rules don't need to be perfect, including not needing to be perfectly balanced (which is good as it is impossible for all but the most trivially boring games), but for the non-PvP cooperative experiences game D&D not even balanced in a narrow sense at all. It is enough to have feel good niches if they are actualized regularly enough, and if the players are not competitively missunderstanding the nature of the game, as it is understood widely today (historically there was a lot of competitive D&D in the early years, the game indeed coming from a lineages of PvP games). Part of the modern TTRPG (default) playstyle is thinking cooperatively, not competitively.
