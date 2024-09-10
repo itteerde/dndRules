@@ -1,0 +1,1 @@
+Game rules cannot be protected, only presentation, ..., can. So having the pure reference material plain text for bug tracking and basis for fixing would not only be quire likely fair use if it was protected, but simply cannot be in violation of anything as the rules themselves cannot be protected.
