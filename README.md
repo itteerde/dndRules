@@ -1,5 +1,5 @@
 # dndRules
-Rules Stuff for DnD, mostly clarifications, QaA
+Rules Stuff for DnD, table rules, clarifications, QaA, tracking errata, ...
 - [Table-Rules](https://github.com/itteerde/dndRules/wiki/Table-Rules)
 
 
