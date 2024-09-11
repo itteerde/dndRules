@@ -1,4 +1,4 @@
-# True Polymorph
+# Conjure Minor Elementals
 
 | Key | Value |
 | --- | --- |
